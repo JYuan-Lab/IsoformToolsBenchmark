@@ -21,9 +21,9 @@ All tools, with the exception of MAJIQ2 (requires permission), are provided in S
 
 The container files are hosted on Zenodo and can be downloaded using the following links:
 - BRIE container: `isoform_brie.sif.zip`  
-  https://zenodo.org/records/18885345/files/isoform_brie.sif.zip
+  https://zenodo.org/records/18885345
 - Main tools container: `isoform_tools_v2.sif.zip`  
-  https://zenodo.org/records/20067728/files/singularity_and_readme.zip?download=1
+  https://zenodo.org/records/20067728
 
 Usage
 ```bash
