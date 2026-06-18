@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>IsoformToolsBeachmark</h1>
+  <h1>IsoformToolsBenchmark</h1>
 </div>
 
 # 📌 Overview
